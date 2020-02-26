@@ -8,3 +8,8 @@ Cleans up our Sharepoint by keeping 5 of the latest reports in each folder and a
 # cleanup_DSPP.py
 
 1. Cleans up only the DSPP folder.
+
+
+# Prerequisites
+
+conda install -c anaconda path.py > this library is needed but you can replace that line of code with other inbuilt file path libraries.
