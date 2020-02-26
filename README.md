@@ -12,4 +12,4 @@ Cleans up our Sharepoint by keeping 5 of the latest reports in each folder and a
 
 # Prerequisites
 
-conda install -c anaconda path.py > this library is needed but you can replace that line of code with other inbuilt file path libraries.
+*conda install -c anaconda path.py* > this library is needed but you can replace that line of code with other inbuilt file path libraries.
